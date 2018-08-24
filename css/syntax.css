@@ -4,20 +4,13 @@
 * Date 24.08.2018
 *
 *************************************************/
-/*targetings elements / TAGS */
+/* Important declaration */
 
-#main-content p{
-    color: red;
 
-}
 p{
-    color: black;
+    color: red !important;
 }
-
-.test{
+#main-content p{
     color: green;
-}
 
-strong{
-    color: green;
 }
