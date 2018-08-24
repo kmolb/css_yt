@@ -1,25 +1,23 @@
 /************************************************
 *
 * Author: kmolb 
-* Date 20.08.2018
+* Date 24.08.2018
 *
 *************************************************/
 /*targetings elements / TAGS */
 
-body{
-    color:red;
-
-}
-div{
-    color: blue;
+#main-content p{
+    color: red;
 
 }
 p{
+    color: black;
+}
+
+.test{
     color: green;
 }
 
-a{
-    color: yellow;
-    text-decoration: underline;
-    
+strong{
+    color: green;
 }
